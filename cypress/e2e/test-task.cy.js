@@ -9,13 +9,11 @@ describe('Todo page - AUT', () => {
         itemToEdit: `test-edit-${randomItemName}`
     };
 
-
     beforeEach(() => {
         cy.visit('../page-in-test/index.html');
     })
 
     it('Check default visible elements ', () => {
-        cy.visit('../page-in-test/index.html');
         cy.url().should('include', 'page-in-test/index.html') 
         toDoPage.toDoInput.should('be.visible');
         toDoPage.addButton.should('be.visible');
