@@ -35,26 +35,12 @@ class ToDoPage {
       this.addButton.click()
     }
 
-    deleteTask(newTaskName) {
+    deleteTask() {
         this.toDoCheckBox.click()
         this.toDoSetting.click()
         this.deleteTaskButton.click()
     }
-
-    // markTaskAsCompleted(){
-    //     this.toDoCheckBox.click()
-    //     this.
-    // }
-
-  
-    // Add more elements and actions as needed
   }
   
   export const toDoPage = new ToDoPage();
 
-//   get editTaskButton() {
-//     return cy.get('#task-menu edit-btn');
-//   }
-//   get deleteTaskButton() {
-//     return cy.get('#task-menu delete-btn');
-//   }
