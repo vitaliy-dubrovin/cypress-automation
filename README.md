@@ -11,7 +11,7 @@ This project contains Cypress tests for [your project name]. It includes a simpl
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/vitaliy-dubrovin/test-task1.git
+   git clone https://github.com/vitaliy-dubrovin/Todo-List-App
 2. npm install - install packages
 
 
