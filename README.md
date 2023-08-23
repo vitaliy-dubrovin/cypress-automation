@@ -1,6 +1,7 @@
 # Cypress Test Task
 This project contains Cypress tests for ToDo app. It includes a simple reporting mechanism that provides a summary of the test results. Page in test /page-in-test
-Video of process: here - [click here](https://github.com/vitaliy-dubrovin/Todo-List-App/blob/master/cypress/videos/test-task.cy.js.mp4). 
+
+
 ![Video Demo](.cypress/videos/test-task.cy.js.mp4 "Video Demo")
 
 
