@@ -1,5 +1,5 @@
 # Cypress Test Task
-This project contains Cypress tests for ToDo app. It includes a simple reporting mechanism that provides a summary of the test results.
+This project contains Cypress tests for ToDo app. It includes a simple reporting mechanism that provides a summary of the test results. Page in test /page-in-test
 
 
 ## Prerequisites
