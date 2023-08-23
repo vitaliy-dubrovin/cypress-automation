@@ -2,7 +2,7 @@
 This project contains Cypress tests for ToDo app. It includes a simple reporting mechanism that provides a summary of the test results. Page in test /page-in-test
 
 
-![Video Demo](.cypress/videos/Test-runner-replay.gif "Video Demo")
+![Test run demo](cypress/videos/Test-runner-replay.gif "Test run demo")
 
 
 ## Prerequisites
